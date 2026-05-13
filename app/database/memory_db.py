@@ -1,0 +1,2 @@
+projects = []
+next_id = 1
